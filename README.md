@@ -37,9 +37,8 @@ I am a third-year computer engineering student with a keen interest in Backend D
 
 ## 📫 Contact Me
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/your-profile)
-- [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/your-profile)
-- [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mailto:your-email)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/amin-efaf/)
+- [![Email](https://img.shields.io/badge/-Email-000?&logo=Gmail)](mohammad.efaf.82@gamil.com)
 
 ## 👨‍💻 Visitor Count
 
