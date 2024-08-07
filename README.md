@@ -4,29 +4,24 @@
 
 ## About Me
 
-I am a passionate software developer with a love for coding and open-source. My interests range from web development to data science and machine learning. I enjoy working on innovative projects and collaborating with the community.
+I am a third-year computer engineering student with a keen interest in Backend Development. I am dedicated to honing my skills and make daily strides towards becoming proficient in this field. Eager to contribute to innovative projects and collaborate with like-minded professionals.
 
-- 🔭 I’m currently working on [Your Project]
-- 🌱 I’m currently learning [New Skill]
-- 👯 I’m looking to collaborate on [Project Type]
-- 💬 Ask me about [Topics]
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Interesting Fact About You]
+- 🔭 I’m currently working on stranger telegram chatbot
+- 🌱 I’m currently learning Web Development 
+- 👯 I’m looking to collaborate on Web Applications
+- 💬 Ask me about backend development and problem solving
+- 📫 How to reach me: mohammad.efaf.82@gamil.com
 
 ## 🚀 Skills and Technologies
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AminEfaf&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AminEfaf&layout=compact&hide_border=true)
 
 ## 🏆 Achievements
 
@@ -48,7 +43,7 @@ I am a passionate software developer with a love for coding and open-source. My 
 
 ## 👨‍💻 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/AminEfaf/count.svg)
 
 <!-- Add more sections as needed -->
 
