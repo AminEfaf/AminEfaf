@@ -54,7 +54,7 @@
 
 
   
-## 📂 Projects([link to project](https://github.com/AminEfaf?tab=repositories))
+## 📂 ([Projects](https://github.com/AminEfaf?tab=repositories))
 
 
 ## 📫 Contact Me
