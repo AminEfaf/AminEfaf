@@ -35,10 +35,11 @@ I am a third-year computer engineering student with a keen interest in Backend D
 
 ## 🎓 Licenses & Certifications
 
-- **[Certification Name](link to certification)**  
+- **[Scrum Foundations course][(link to certification)](https://www.linkedin.com/in/amin-efaf/details/certifications/1712555860669/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c)**  
   *Issuing Organization* - Issued Date  
   Description or any relevant details.
-  - **[Certification Name](link to certification)**  
+  
+- **[Certification Name](link to certification)**  
   *Issuing Organization* - Issued Date  
   Description or any relevant details.
 - **[Certification Name](link to certification)**  
