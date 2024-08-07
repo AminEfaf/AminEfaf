@@ -46,13 +46,8 @@ I am a third-year computer engineering student with a keen interest in Backend D
   *Issuing Organization* - Issued Date  
   Description or any relevant details.
 
-## 📂 Projects
+[## 📂 Projects]([link to project](https://github.com/AminEfaf?tab=repositories))
 
-- [Project Name](link to project)
-  - Description of the project
-
-- [Another Project](link to project)
-  - Description of the project
 
 ## 📫 Contact Me
 
