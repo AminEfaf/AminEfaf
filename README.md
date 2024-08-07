@@ -36,20 +36,20 @@
   *Ultima Training Tech Co.* - Issued Mar 2024  
   Skills: Scrum · Agile Methodologies
   
-- **CS50x certificate([link to certification](https://certificates.cs50.io/eee1caf0-4524-4bfe-b5b6-fe7deb83f1c4.pdf?size=letter))**  
+- **([CS50x certificate](https://certificates.cs50.io/eee1caf0-4524-4bfe-b5b6-fe7deb83f1c4.pdf?size=letter))**  
   *CS50* - Issued Dec 2023 
   Skills: C (Programming Language) · Scratch · HTML, CSS, JavaScript · Flask · Python (Programming Language) · Algorithms · Data Structures · SQL
   
 - **business continuity management**  
   *Scientific Association of Computer Engineering at University of Guilan* - Issued May 2023
 
-- **Wordpress([link to certification](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211325/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
+- **([Wordpress](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211325/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
   *Qorpi* - Issued Aug 2022
 
-- **Python([link to certification](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211334/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
+- **(Python](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211334/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
   *Scientific Association of Computer Engineering at University of Guilan* - Issued Jul 2022
 
-- **Advanced level English course completion in the Adults' Department of the ILI([link to certification](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211250/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
+- **([Advanced level English course completion in the Adults' Department of the ILI](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211250/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
   *ran Language Institute* - Issued Jun 2022
 
 
