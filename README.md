@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Mohammad Amin Efaf!&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=AminEfaf&style=flat-square)
-
 ## About Me
 
 I am a third-year computer engineering student with a keen interest in Backend Development. I am dedicated to honing my skills and make daily strides towards becoming proficient in this field. Eager to contribute to innovative projects and collaborate with like-minded professionals.
