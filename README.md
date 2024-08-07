@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Mohammad Amin Efaf!&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=AminEfaf&style=flat-square)
+
 ## About Me
 
 I am a third-year computer engineering student with a keen interest in Backend Development. I am dedicated to honing my skills and make daily strides towards becoming proficient in this field. Eager to contribute to innovative projects and collaborate with like-minded professionals.
@@ -14,15 +15,29 @@ I am a third-year computer engineering student with a keen interest in Backend D
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-000?&logo=Arduino)
+![Scrum](https://img.shields.io/badge/-Scrum-000?&logo=Scrum)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-000?&logo=dotnet)
+![VHDL](https://img.shields.io/badge/-VHDL-000?&logo=VHDL)
+![Assembly Language](https://img.shields.io/badge/-Assembly_Language-000?&logo=AssemblyScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![C++](https://img.shields.io/badge/-C++-000?&logo=Cplusplus)
+
 
 ## 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AminEfaf&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AminEfaf&layout=compact&hide_border=true)
 
-## 🏆 Achievements
+## 🎓 Licenses & Certifications
 
-- [List your achievements]
+- **[Certification Name](link to certification)**  
+  *Issuing Organization* - Issued Date  
+  Description or any relevant details.
 
 ## 📂 Projects
 
@@ -40,6 +55,3 @@ I am a third-year computer engineering student with a keen interest in Backend D
 ## 👨‍💻 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/AminEfaf/count.svg)
-
-<!-- Add more sections as needed -->
-
