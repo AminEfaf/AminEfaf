@@ -32,7 +32,7 @@
 
 ## 🎓 Licenses & Certifications
 
-- **Scrum Foundations course([link to certification](https://www.linkedin.com/in/amin-efaf/details/certifications/1712555860669/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c)**  
+- **Scrum Foundations course([link to certification](https://www.linkedin.com/in/amin-efaf/details/certifications/1712555860669/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
   *Ultima Training Tech Co.* - Issued Mar 2024  
   Skills: Scrum · Agile Methodologies
   
@@ -43,13 +43,13 @@
 - **business continuity management**  
   *Scientific Association of Computer Engineering at University of Guilan* - Issued May 2023
 
-- **Wordpress([link to certification](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211325/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c)**  
+- **Wordpress([link to certification](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211325/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
   *Qorpi* - Issued Aug 2022
 
-- **Python([link to certification](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211334/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c)**  
+- **Python([link to certification](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211334/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
   *Scientific Association of Computer Engineering at University of Guilan* - Issued Jul 2022
 
-- **Advanced level English course completion in the Adults' Department of the ILI([link to certification](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211250/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c)**  
+- **Advanced level English course completion in the Adults' Department of the ILI([link to certification](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211250/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
   *ran Language Institute* - Issued Jun 2022
 
 
