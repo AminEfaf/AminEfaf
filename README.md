@@ -32,7 +32,7 @@
 
 ## 🎓 Licenses & Certifications
 
-- **Scrum Foundations course([link to certification](https://www.linkedin.com/in/amin-efaf/details/certifications/1712555860669/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
+- **([Scrum Foundations course](https://www.linkedin.com/in/amin-efaf/details/certifications/1712555860669/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
   *Ultima Training Tech Co.* - Issued Mar 2024  
   Skills: Scrum · Agile Methodologies
   
