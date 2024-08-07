@@ -1,6 +1,6 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Mohammad Amin Efaf!
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=AminEfaf&style=flat-square)
 
 ## About Me
 
