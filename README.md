@@ -1,6 +1,4 @@
-# Hi there 👋, I'm Mohammad Amin Efaf!&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=AminEfaf&style=flat-square)
-This is an example of using&nbsp;&nbsp;&nbsp;non-breaking spaces.
-
+# Hi there 👋, I'm Mohammad Amin Efaf!&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=AminEfaf&style=flat-square)
 
 ## About Me
 
