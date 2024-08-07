@@ -36,15 +36,23 @@ I am a third-year computer engineering student with a keen interest in Backend D
 ## 🎓 Licenses & Certifications
 
 - **[Scrum Foundations course][(link to certification)](https://www.linkedin.com/in/amin-efaf/details/certifications/1712555860669/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c)**  
-  *Issuing Organization* - Issued Date  
-  Description or any relevant details.
+  *Ultima Training Tech Co.* - Issued Mar 2024  
+  Skills: Scrum · Agile Methodologies
   
-- **[Certification Name](link to certification)**  
-  *Issuing Organization* - Issued Date  
-  Description or any relevant details.
-- **[Certification Name](link to certification)**  
-  *Issuing Organization* - Issued Date  
-  Description or any relevant details.
+- **[CS50x certificate]([link to certification](https://certificates.cs50.io/eee1caf0-4524-4bfe-b5b6-fe7deb83f1c4.pdf?size=letter))**  
+  *CS50* - Issued Dec 2023 
+  Skills: C (Programming Language) · Scratch · HTML, CSS, JavaScript · Flask · Python (Programming Language) · Algorithms · Data Structures · SQL
+  
+- **business continuity management**  
+  *Scientific Association of Computer Engineering at University of Guilan* - Issued May 2023
+
+  - **[Wordpress]([https://certificates.cs50.io/eee1caf0-4524-4bfe-b5b6-fe7deb83f1c4.pdf?size=letter)](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211325/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
+  *CS50* - Issued Dec 2023 
+  Skills: C (Programming Language) · Scratch · HTML, CSS, JavaScript · Flask · Python (Programming Language) · Algorithms · Data Structures · SQL
+
+- **[CS50x certificate]([link to certification](https://certificates.cs50.io/eee1caf0-4524-4bfe-b5b6-fe7deb83f1c4.pdf?size=letter))**  
+  *CS50* - Issued Dec 2023 
+  Skills: C (Programming Language) · Scratch · HTML, CSS, JavaScript · Flask · Python (Programming Language) · Algorithms · Data Structures · SQL
 
 ## 📂 Projects([link to project](https://github.com/AminEfaf?tab=repositories))
 
