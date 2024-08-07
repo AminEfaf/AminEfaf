@@ -38,6 +38,12 @@ I am a third-year computer engineering student with a keen interest in Backend D
 - **[Certification Name](link to certification)**  
   *Issuing Organization* - Issued Date  
   Description or any relevant details.
+  - **[Certification Name](link to certification)**  
+  *Issuing Organization* - Issued Date  
+  Description or any relevant details.
+- **[Certification Name](link to certification)**  
+  *Issuing Organization* - Issued Date  
+  Description or any relevant details.
 
 ## 📂 Projects
 
