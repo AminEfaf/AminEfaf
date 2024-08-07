@@ -50,7 +50,7 @@
   *Scientific Association of Computer Engineering at University of Guilan* - Issued Jul 2022
 
 - **([Advanced level English course completion in the Adults' Department of the ILI](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211250/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
-  *ran Language Institute* - Issued Jun 2022
+  *Iran Language Institute* - Issued Jun 2022
 
 
   
