@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mohammad Amin Efaf!&nbsp;&nbsp;&nbsp;&nbsp;![Profile Views](https://komarev.com/ghpvc/?username=AminEfaf&style=flat-square)
+# Hi there 👋, I'm Mohammad Amin Efaf!
 
 - 🔭 I’m currently working on stranger telegram chatbot
 - 🌱 I’m currently learning Web Development 
