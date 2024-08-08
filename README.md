@@ -1,12 +1,4 @@
 # Hi there 👋, I'm Mohammad Amin Efaf!
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AminEfaf&theme=onedark&no-frame=true&column=4)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AminEfaf&theme=dark)
-
 
 - 🔭 I’m currently working on Stranger Telegram Chatbot
 - 🌱 I’m currently learning Machine Learning and Deep Learning
@@ -32,12 +24,6 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=Cplusplus)
 
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AminEfaf&show_icons=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AminEfaf&layout=compact&hide_border=true)
-
 ## 🎓 Licenses & Certifications
 
 - **([Scrum Foundations course](https://www.linkedin.com/in/amin-efaf/details/certifications/1712555860669/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
@@ -59,10 +45,22 @@
 
 - **([Advanced level English course completion in the Adults' Department of the ILI](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211250/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
   *Iran Language Institute* - Issued Jun 2022
-
-
+  
   
 ## 📂 ([Projects](https://github.com/AminEfaf?tab=repositories))
+
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AminEfaf&show_icons=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AminEfaf&layout=compact&hide_border=true)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AminEfaf&theme=onedark&no-frame=true&column=4)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AminEfaf&theme=dark)
 
 
 ## 📫 Contact Me
