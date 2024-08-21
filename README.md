@@ -55,10 +55,10 @@
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AminEfaf&show_icons=true&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AminEfaf&layout=compact&hide_border=true)
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AminEfaf&theme=onedark&no-frame=true&column=4)
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AminEfaf&theme=dark)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AminEfaf&theme=onedark&no-frame=true&column=4)
