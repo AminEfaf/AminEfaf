@@ -37,13 +37,13 @@
 - **business continuity management**  
   *Scientific Association of Computer Engineering at University of Guilan* - Issued May 2023
 
-- **([Wordpress](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211325/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
+- **([Wordpress](https://media.licdn.com/dms/image/v2/D4D2DAQHaogyh7uZofw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1702538071061?e=1729756800&v=beta&t=a0bN5in2BUznLp6cHI2BN4knVx2BsA-HVnv45dAfRHc))**  
   *Qorpi* - Issued Aug 2022
 
-- **([Python](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211334/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
+- **([Python](https://media.licdn.com/dms/image/v2/D4D2DAQF-PtbUzse5Dg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1702538110794?e=1729756800&v=beta&t=VAqZTfayxZmS6fk7-1LlChaZ_5NlpxDMne5ivMvcNjw))**  
   *Scientific Association of Computer Engineering at University of Guilan* - Issued Jul 2022
 
-- **([Advanced level English course completion in the Adults' Department of the ILI](https://www.linkedin.com/in/amin-efaf/details/certifications/1635554211250/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c))**  
+- **([Advanced level English course completion in the Adults' Department of the ILI](https://media.licdn.com/dms/image/v2/D4D2DAQEgYmF-hMxfbg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1702537627861?e=1729756800&v=beta&t=-w-cLNodufCICmq-tArCG01Fw3Cmg6njcvONhX7Kna0))**  
   *Iran Language Institute* - Issued Jun 2022
 
 ## 👨‍💻 Visitor Count
