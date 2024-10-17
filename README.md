@@ -26,7 +26,7 @@
 
 ## 🎓 Licenses & Certifications
 
-- **([Scrum Foundations course]([https://www.linkedin.com/in/amin-efaf/details/certifications/1712555860669/single-media-viewer/?profileId=ACoAADlM0q4Bc4JUBQIMA0GntGeMMMAxYksRm7c](https://media.licdn.com/dms/image/v2/D4D2DAQFORxAbVlJWVg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1712555747908?e=1729756800&v=beta&t=14WHo35HPdSHt1gcBqnypyhMiXrRLc1TuflMCWtXAR8)))**  
+- **([Scrum Foundations course](https://media.licdn.com/dms/image/v2/D4D2DAQFORxAbVlJWVg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1712555747908?e=1729756800&v=beta&t=14WHo35HPdSHt1gcBqnypyhMiXrRLc1TuflMCWtXAR8))**  
   *Ultima Training Tech Co.* - Issued Mar 2024  
   Skills: Scrum · Agile Methodologies
   
