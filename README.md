@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Machine Learning and Deep Learning
 - 👯 I’m looking to collaborate on Web Applications
 - 💬 Ask me about Backend Development and Problem Solving
-- 📫 How to reach me: mohammad.efaf.82@gamil.com
+- 📫 How to reach me: AminEfaf.82@gamil.com
 
 ## 🚀 Skills and Technologies
 
