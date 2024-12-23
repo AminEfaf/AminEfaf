@@ -26,7 +26,7 @@
 
 ## 🎓 Licenses & Certifications
 
-- **([Scrum Foundations course](https://media.licdn.com/dms/image/v2/D4D2DAQFORxAbVlJWVg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1712555747908?e=1729756800&v=beta&t=14WHo35HPdSHt1gcBqnypyhMiXrRLc1TuflMCWtXAR8))**  
+- **([Scrum Foundations course](https://aminefaf.pythonanywhere.com/static/images/Scrum%20Foundations%20course.jpg))**  
   *Ultima Training Tech Co.* - Issued Mar 2024  
   Skills: Scrum · Agile Methodologies
   
@@ -37,13 +37,13 @@
 - **business continuity management**  
   *Scientific Association of Computer Engineering at University of Guilan* - Issued May 2023
 
-- **([Wordpress](https://media.licdn.com/dms/image/v2/D4D2DAQHaogyh7uZofw/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1702538071061?e=1729756800&v=beta&t=a0bN5in2BUznLp6cHI2BN4knVx2BsA-HVnv45dAfRHc))**  
+- **([Wordpress](https://aminefaf.pythonanywhere.com/static/images/WordPress.jpg))**  
   *Qorpi* - Issued Aug 2022
 
-- **([Python](https://media.licdn.com/dms/image/v2/D4D2DAQF-PtbUzse5Dg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1702538110794?e=1729756800&v=beta&t=VAqZTfayxZmS6fk7-1LlChaZ_5NlpxDMne5ivMvcNjw))**  
+- **([Python](https://aminefaf.pythonanywhere.com/static/images/python.jpg))**  
   *Scientific Association of Computer Engineering at University of Guilan* - Issued Jul 2022
 
-- **([Advanced level English course completion in the Adults' Department of the ILI](https://media.licdn.com/dms/image/v2/D4D2DAQEgYmF-hMxfbg/profile-treasury-image-shrink_800_800/profile-treasury-image-shrink_800_800/0/1702537627861?e=1729756800&v=beta&t=-w-cLNodufCICmq-tArCG01Fw3Cmg6njcvONhX7Kna0))**  
+- **([Advanced level English course completion in the Adults' Department of the ILI](https://aminefaf.pythonanywhere.com/static/images/ili.jpg))**  
   *Iran Language Institute* - Issued Jun 2022
 
 ## 👨‍💻 Visitor Count
