@@ -1,11 +1,5 @@
 # Hi there 👋, I'm Mohammad Amin Efaf!
 
-- 🔭 I’m currently working on Stranger Telegram Chatbot
-- 🌱 I’m currently learning Machine Learning and Deep Learning
-- 👯 I’m looking to collaborate on Web Applications
-- 💬 Ask me about Backend Development and Problem Solving
-- 📫 How to reach me: AminEfaf.82@gmail.com
-
 ## 🚀 Skills and Technologies
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
