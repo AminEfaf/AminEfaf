@@ -1,45 +1,127 @@
-# Hi there 👋, I'm Mohammad Amin Efaf!
+import React from 'react';
+import { motion } from 'framer-motion';
+import { 
+  Code, 
+  Laptop, 
+  Award, 
+  User, 
+  GitBranch, 
+  Terminal, 
+  Globe, 
+  Database 
+} from 'lucide-react';
 
-## 🚀 Skills and Technologies
+const TechBadge = ({ icon: Icon, label, color }) => (
+  <motion.div 
+    className="flex items-center bg-gray-800 text-white p-2 rounded-lg m-1"
+    whileHover={{ scale: 1.05, rotate: 3 }}
+    transition={{ type: "spring", stiffness: 300 }}
+  >
+    <Icon className="mr-2" color={color} size={24} />
+    <span>{label}</span>
+  </motion.div>
+);
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Microcontrollers](https://img.shields.io/badge/-Microcontrollers-000?&logo=Arduino)
-![Scrum](https://img.shields.io/badge/-Scrum-000?&logo=Scrum)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![ASP.NET](https://img.shields.io/badge/-ASP.NET-000?&logo=dotnet)
-![VHDL](https://img.shields.io/badge/-VHDL-000?&logo=VHDL)
-![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
-![Assembly Language](https://img.shields.io/badge/-Assembly_Language-000?&logo=AssemblyScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
-![C++](https://img.shields.io/badge/-C++-000?&logo=Cplusplus)
+const CertificationCard = ({ title, issuer, date, skills }) => (
+  <motion.div 
+    className="bg-gray-800 p-4 rounded-lg mb-4 shadow-lg"
+    initial={{ opacity: 0, y: 20 }}
+    animate={{ opacity: 1, y: 0 }}
+    transition={{ duration: 0.5 }}
+  >
+    <h3 className="text-xl font-bold text-white">{title}</h3>
+    <p className="text-gray-400">{issuer} - {date}</p>
+    <p className="text-gray-300 italic">{skills}</p>
+  </motion.div>
+);
 
-## 🎓 Licenses & Certifications
+const GithubProfile = () => {
+  const technologies = [
+    { icon: Code, label: 'Python', color: '#3776AB' },
+    { icon: Laptop, label: 'HTML5', color: '#E34F26' },
+    { icon: Terminal, label: 'Linux', color: '#FCC624' },
+    { icon: GitBranch, label: 'Flask', color: '#000000' },
+    { icon: Database, label: 'SQL', color: '#4479A1' },
+    { icon: Globe, label: 'C', color: '#A8B9CC' }
+  ];
 
-- **([Scrum Foundations course](https://aminefaf.pythonanywhere.com/static/images/Scrum%20Foundations%20course.jpg))**  
-  *Ultima Training Tech Co.* - Issued Mar 2024  
-  Skills: Scrum · Agile Methodologies
-  
-- **([CS50x certificate](https://certificates.cs50.io/eee1caf0-4524-4bfe-b5b6-fe7deb83f1c4.pdf?size=letter))**  
-  *CS50* - Issued Dec 2023 
-  Skills: C (Programming Language) · Scratch · HTML, CSS, JavaScript · Flask · Python (Programming Language) · Algorithms · Data Structures · SQL
-  
-- **business continuity management**  
-  *Scientific Association of Computer Engineering at University of Guilan* - Issued May 2023
+  const certifications = [
+    {
+      title: 'Scrum Foundations',
+      issuer: 'Ultima Training Tech Co.',
+      date: 'Mar 2024',
+      skills: 'Scrum · Agile Methodologies'
+    },
+    {
+      title: 'CS50x Certificate',
+      issuer: 'CS50',
+      date: 'Dec 2023',
+      skills: 'Programming · Algorithms · Web Development'
+    }
+  ];
 
-- **([Wordpress](https://aminefaf.pythonanywhere.com/static/images/WordPress.jpg))**  
-  *Qorpi* - Issued Aug 2022
+  return (
+    <div className="min-h-screen bg-gray-900 text-white p-8">
+      <motion.h1 
+        className="text-5xl font-bold mb-8"
+        initial={{ opacity: 0, y: -50 }}
+        animate={{ opacity: 1, y: 0 }}
+        transition={{ duration: 0.8 }}
+      >
+        Hi there! I'm Mohammad Amin Efaf
+      </motion.h1>
 
-- **([Python](https://aminefaf.pythonanywhere.com/static/images/python.jpg))**  
-  *Scientific Association of Computer Engineering at University of Guilan* - Issued Jul 2022
+      <motion.div 
+        className="mb-12"
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 0.5, duration: 0.8 }}
+      >
+        <h2 className="text-3xl mb-4 font-semibold">🚀 Skills and Technologies</h2>
+        <div className="flex flex-wrap">
+          {technologies.map((tech, index) => (
+            <TechBadge 
+              key={index} 
+              icon={tech.icon} 
+              label={tech.label} 
+              color={tech.color} 
+            />
+          ))}
+        </div>
+      </motion.div>
 
-- **([Advanced level English course completion in the Adults' Department of the ILI](https://aminefaf.pythonanywhere.com/static/images/ili.jpg))**  
-  *Iran Language Institute* - Issued Jun 2022
+      <motion.div 
+        className="mb-12"
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 0.7, duration: 0.8 }}
+      >
+        <h2 className="text-3xl mb-4 font-semibold">🎓 Licenses & Certifications</h2>
+        {certifications.map((cert, index) => (
+          <CertificationCard 
+            key={index}
+            title={cert.title}
+            issuer={cert.issuer}
+            date={cert.date}
+            skills={cert.skills}
+          />
+        ))}
+      </motion.div>
 
-## 👨‍💻 Visitor Count
+      <motion.div 
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 0.9, duration: 0.8 }}
+      >
+        <h2 className="text-3xl mb-4 font-semibold">👨‍💻 Visitor Count</h2>
+        <img 
+          src="https://profile-counter.glitch.me/AminEfaf/count.svg" 
+          alt="Visitor Count" 
+          className="max-w-full"
+        />
+      </motion.div>
+    </div>
+  );
+};
 
-![Visitor Count](https://profile-counter.glitch.me/AminEfaf/count.svg)
+export default GithubProfile;
