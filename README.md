@@ -18,7 +18,11 @@
 
 - **WordPress Certification** - *Qorpi* (Aug 2022)
 
+- **business continuity management** - *University of Guilan* (May 2023)
+
 - **Python Course** - *University of Guilan* (Jul 2022)
+
+- **Advanced level English course completion in the Adults' Department of the ILI** - *Iran Language Institute* (Jun 2022)
 
 ## 📊 GitHub Stats
 
