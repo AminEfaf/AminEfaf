@@ -13,19 +13,21 @@
 
 ## 🎓 Licenses & Certifications
 
-- **Scrum Foundations** - *Ultima Training Tech Co.* (Mar 2024)
-  - Skills: Scrum · Agile Methodologies
+\begin{itemize}[noitemsep,nolistsep]
 
-- **CS50x Certificate** - *CS50* (Dec 2023)
-  - Skills: C · Python · Web Development · Algorithms
+  \item \textbf{\href{http://dl.micro-master.ir/RayanCourse/Certificates/2500068395e01f59a991f4dfb07e14390fef85a329077ebeb1789887a8b2b76b865134d199030.jpg}{Introduction to Deep and Machine Learning - Department of Computer Engineering, Sharif University (Aug 2024)}}\hfill\\[-0.4cm]\\
+  
+  \item \textbf{\href{http://dl.micro-master.ir/RayanCourse/Certificates/250006839263596118d77c50fa1d31fba1133efbad33abc728b239fb9e6d6d54ad64384ed9031.jpg}{Trustworthiness in Deep Learning - Department of Computer Engineering, Sharif University (Sep 2024)}}\hfill\\[-0.4cm]\\
 
-- **WordPress Certification** - *Qorpi* (Aug 2022)
+  \item \textbf{\href{https://aminefaf.vercel.app/static/files/scrum.png}{Scrum Foundations - Ultima Training Tech Co. (Mar 2024)}}\hfill\\[-0.4cm]\\
 
-- **business continuity management** - *University of Guilan* (May 2023)
+  \item \textbf{\href{https://certificates.cs50.io/eee1caf0-4524-4bfe-b5b6-fe7deb83f1c4.pdf?size=letter}{CS50x Certificate - CS50 (Dec 2023)}}\hfill\\[-0.4cm]\\
 
-- **Python Course** - *University of Guilan* (Jul 2022)
+  \item \textbf{\href{https://aminefaf.vercel.app/static/files/wordpress.png}{WordPress Certification - Qorpi (Aug 2022)}}\hfill\\[-0.4cm]\\
 
-- **Advanced level English course completion in the Adults' Department of the ILI** - *Iran Language Institute* (Jun 2022)
+  \item \textbf{\href{https://aminefaf.vercel.app/static/files/ili.png}{Advanced level English course completion in the Adults' Department of the ILI - Iran Language Institute (Jun 2022)}}\hfill\\[-0.4cm]\\
+  
+\end{itemize}
 
 ## 📊 GitHub Stats
 
