@@ -17,17 +17,17 @@
 
 ### Certifications
 
-- **<a href="http://dl.micro-master.ir/RayanCourse/Certificates/2500068395e01f59a991f4dfb07e14390fef85a329077ebeb1789887a8b2b76b865134d199030.jpg" target="_blank">Introduction to Deep and Machine Learning - Department of Computer Engineering, Sharif University (Aug 2024)</a>**  
+- **[Introduction to Deep and Machine Learning - Department of Computer Engineering, Sharif University (Aug 2024)](http://dl.micro-master.ir/RayanCourse/Certificates/2500068395e01f59a991f4dfb07e14390fef85a329077ebeb1789887a8b2b76b865134d199030.jpg)**  
 
-- **<a href="http://dl.micro-master.ir/RayanCourse/Certificates/250006839263596118d77c50fa1d31fba1133efbad33abc728b239fb9e6d6d54ad64384ed9031.jpg" target="_blank">Trustworthiness in Deep Learning - Department of Computer Engineering, Sharif University (Sep 2024)</a>**  
+- **[Trustworthiness in Deep Learning - Department of Computer Engineering, Sharif University (Sep 2024)](http://dl.micro-master.ir/RayanCourse/Certificates/250006839263596118d77c50fa1d31fba1133efbad33abc728b239fb9e6d6d54ad64384ed9031.jpg)**  
 
-- **<a href="https://aminefaf.vercel.app/static/files/scrum.png" target="_blank">Scrum Foundations - Ultima Training Tech Co. (Mar 2024)</a>**  
+- **[Scrum Foundations - Ultima Training Tech Co. (Mar 2024)](https://aminefaf.vercel.app/static/files/scrum.png)**  
 
-- **<a href="https://certificates.cs50.io/eee1caf0-4524-4bfe-b5b6-fe7deb83f1c4.pdf?size=letter" target="_blank">CS50x Certificate - CS50 (Dec 2023)</a>**  
+- **[CS50x Certificate - CS50 (Dec 2023)](https://certificates.cs50.io/eee1caf0-4524-4bfe-b5b6-fe7deb83f1c4.pdf?size=letter)**  
 
-- **<a href="https://aminefaf.vercel.app/static/files/wordpress.png" target="_blank">WordPress Certification - Qorpi (Aug 2022)</a>**  
+- **[WordPress Certification - Qorpi (Aug 2022)](https://aminefaf.vercel.app/static/files/wordpress.png)**  
 
-- **<a href="https://aminefaf.vercel.app/static/files/ili.png" target="_blank">Advanced Level English Course Completion - Iran Language Institute (Jun 2022)</a>**  
+- **[Advanced Level English Course Completion - Iran Language Institute (Jun 2022)](https://aminefaf.vercel.app/static/files/ili.png)**  
 
 
 ## 📊 GitHub Stats
