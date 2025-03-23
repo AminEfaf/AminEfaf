@@ -12,10 +12,6 @@
 
 ## 🎓 Licenses & Certifications
 
-### Certifications
-
-### Certifications
-
 - **[Introduction to Deep and Machine Learning - Department of Computer Engineering, Sharif University (Aug 2024)](http://dl.micro-master.ir/RayanCourse/Certificates/2500068395e01f59a991f4dfb07e14390fef85a329077ebeb1789887a8b2b76b865134d199030.jpg)**  
 
 - **[Trustworthiness in Deep Learning - Department of Computer Engineering, Sharif University (Sep 2024)](http://dl.micro-master.ir/RayanCourse/Certificates/250006839263596118d77c50fa1d31fba1133efbad33abc728b239fb9e6d6d54ad64384ed9031.jpg)**  
