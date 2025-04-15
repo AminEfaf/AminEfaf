@@ -24,9 +24,7 @@
 
 - **[Advanced Level English Course Completion - Iran Language Institute (Jun 2022)](https://aminefaf.vercel.app/static/files/ili.png)**
 
-- **[Advanced Level English Course Completion - Iran Language Institute (Jun 2022)](https://aminefaf.vercel.app/static/files/ili.png)**
-
-- **[CS50x Puzzle Day 2025 - University of Cambridge (Apr 2025)]([https://aminefaf.vercel.app/static/files/ili.png](https://certificates.cs50.io/e53f2198-0bd0-41e2-8e18-cbcb13214663.pdf?size=letter))** 
+- **[CS50x Puzzle Day 2025 - University of Cambridge (Apr 2025)](https://certificates.cs50.io/e53f2198-0bd0-41e2-8e18-cbcb13214663.pdf?size=letter)**
 
 
 ## 📊 GitHub Stats
