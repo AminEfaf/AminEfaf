@@ -18,11 +18,13 @@
 
 - **[Scrum Foundations - Ultima Training Tech Co. (Mar 2024)](https://aminefaf.vercel.app/static/files/scrum.png)**  
 
-- **[CS50x Certificate - CS50 (Dec 2023)](https://certificates.cs50.io/eee1caf0-4524-4bfe-b5b6-fe7deb83f1c4.pdf?size=letter)**  
+- **[CS50x Certificate - University of Cambridge (Dec 2023)](https://certificates.cs50.io/eee1caf0-4524-4bfe-b5b6-fe7deb83f1c4.pdf?size=letter)**  
 
 - **[WordPress Certification - Qorpi (Aug 2022)](https://aminefaf.vercel.app/static/files/wordpress.png)**  
 
-- **[Advanced Level English Course Completion - Iran Language Institute (Jun 2022)](https://aminefaf.vercel.app/static/files/ili.png)**  
+- **[Advanced Level English Course Completion - Iran Language Institute (Jun 2022)](https://aminefaf.vercel.app/static/files/ili.png)**
+
+- **[CS50x Puzzle Day 2025 - University of Cambridge (Apr 2025)]([https://aminefaf.vercel.app/static/files/ili.png](https://certificates.cs50.io/e53f2198-0bd0-41e2-8e18-cbcb13214663.pdf?size=letter))** 
 
 
 ## 📊 GitHub Stats
