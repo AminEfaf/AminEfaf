@@ -2,7 +2,7 @@
 
 ## 🚀 Skills and Technologies
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Image Processing](https://img.shields.io/badge/Image%20Processing-009688?style=for-the-badge&logo=opencv&logoColor=white) 
 ![Image Processing](https://img.shields.io/badge/Image%20Processing-009688?style=for-the-badge&logo=opencv&logoColor=white) 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
@@ -26,11 +26,6 @@
 
 - **[CS50x Puzzle Day 2025 - University of Cambridge (Apr 2025)](https://certificates.cs50.io/e53f2198-0bd0-41e2-8e18-cbcb13214663.pdf?size=letter)**
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AminEfaf&theme=dark&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AminEfaf&layout=compact&theme=dark)
 
 ## 👨‍💻 Visitor Count
 
