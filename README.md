@@ -13,9 +13,6 @@
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Image Processing](https://img.shields.io/badge/Image%20Processing-009688?style=for-the-badge&logo=opencv&logoColor=white) 
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![VHDL](https://img.shields.io/badge/VHDL-FF6600?style=for-the-badge&logo=verilog&logoColor=white) 
 ![Microcontrollers](https://img.shields.io/badge/Microcontrollers-000000?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 </div>
