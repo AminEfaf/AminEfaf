@@ -21,8 +21,8 @@
 
 ### Licenses & Certifications
 
+[Trustworthiness in Deep Learning - Sharif University (Sep 2024)](http://dl.micro-master.ir/RayanCourse/Certificates/250006839263596118d77c50fa1d31fba1133efbad33abc728b239fb9e6d6d54ad64384ed9031.jpg) 
 [Introduction to Deep and Machine Learning - Sharif University (Aug 2024)](http://dl.micro-master.ir/RayanCourse/Certificates/2500068395e01f59a991f4dfb07e14390fef85a329077ebeb1789887a8b2b76b865134d199030.jpg)  
-[Trustworthiness in Deep Learning - Sharif University (Sep 2024)](http://dl.micro-master.ir/RayanCourse/Certificates/250006839263596118d77c50fa1d31fba1133efbad33abc728b239fb9e6d6d54ad64384ed9031.jpg)  
 [Scrum Foundations - Ultima Training Tech Co. (Mar 2024)](https://aminefaf.vercel.app/static/files/scrum.png)  
 [CS50x Certificate - University of Cambridge (Dec 2023)](https://certificates.cs50.io/eee1caf0-4524-4bfe-b5b6-fe7deb83f1c4.pdf?size=letter)  
 [WordPress Certification - Qorpi (Aug 2022)](https://aminefaf.vercel.app/static/files/wordpress.png)  
