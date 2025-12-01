@@ -9,16 +9,6 @@
 
 <div align="center">
 
-### Skills and Technologies
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Image Processing](https://img.shields.io/badge/Image%20Processing-009688?style=for-the-badge&logo=opencv&logoColor=white) 
-![Microcontrollers](https://img.shields.io/badge/Microcontrollers-000000?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
-</div>
-
-<div align="center">
-
 ### Licenses & Certifications
 
 [Trustworthiness in Deep Learning - Sharif University (Sep 2024)](http://dl.micro-master.ir/RayanCourse/Certificates/250006839263596118d77c50fa1d31fba1133efbad33abc728b239fb9e6d6d54ad64384ed9031.jpg)  
