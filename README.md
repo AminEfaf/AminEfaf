@@ -16,9 +16,9 @@ Computer Engineering graduate learning SQL, data engineering fundamentals, and b
 |---|---|---|
 | [Trustworthiness in Deep Learning](http://dl.micro-master.ir/RayanCourse/Certificates/250006839263596118d77c50fa1d31fba1133efbad33abc728b239fb9e6d6d54ad64384ed9031.jpg) | Sharif University | Sep 2024 |
 | [Introduction to Deep and Machine Learning](http://dl.micro-master.ir/RayanCourse/Certificates/2500068395e01f59a991f4dfb07e14390fef85a329077ebeb1789887a8b2b76b865134d199030.jpg) | Sharif University | Aug 2024 |
-| [Scrum Foundations](https://aminefaf.vercel.app/static/img/scrum.jpg) | Ultima Training Tech Co. | Mar 2024 |
+| [Scrum Foundations](https://aminefaf.vercel.app/static/img/Scrum.jpg) | Ultima Training Tech Co. | Mar 2024 |
 | [CS50x Certificate](https://certificates.cs50.io/eee1caf0-4524-4bfe-b5b6-fe7deb83f1c4.pdf?size=letter) | University of Cambridge | Dec 2023 |
-| [WordPress Certification](https://aminefaf.vercel.app/static/img/wordpress.jpg) | Qorpi | Aug 2022 |
+| [WordPress Certification](https://aminefaf.vercel.app/static/img/WordPress.jpg) | Qorpi | Aug 2022 |
 | [Advanced Level English](https://aminefaf.vercel.app/static/img/ili.jpg) | Iran Language Institute | Jun 2022 |
 | [CS50x Puzzle Day 2025](https://certificates.cs50.io/e53f2198-0bd0-41e2-8e18-cbcb13214663.pdf?size=letter) | University of Cambridge | Apr 2025 |
 
