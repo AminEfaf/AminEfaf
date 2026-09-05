@@ -11,7 +11,7 @@
 
 ### Licenses & Certifications
 
-SQL Server 2022 Design & Implementation - Faratar Az Danesh (Jan 2026)
+[SQL Server 2022 Design & Implementation - Faratar Az Danesh (Jan 2026)]
 [Trustworthiness in Deep Learning - Sharif University (Sep 2024)](http://dl.micro-master.ir/RayanCourse/Certificates/250006839263596118d77c50fa1d31fba1133efbad33abc728b239fb9e6d6d54ad64384ed9031.jpg)  
 [Introduction to Deep and Machine Learning - Sharif University (Aug 2024)](http://dl.micro-master.ir/RayanCourse/Certificates/2500068395e01f59a991f4dfb07e14390fef85a329077ebeb1789887a8b2b76b865134d199030.jpg)  
 [Scrum Foundations - Ultima Training Tech Co. (Mar 2024)](https://aminefaf.vercel.app/static/files/scrum.png)  
